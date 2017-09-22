@@ -1,0 +1,14 @@
+{
+  "name": "inmypimockapi",
+  "version": "1.0.0",
+  "description": "just an mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "madhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
